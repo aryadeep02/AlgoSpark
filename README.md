@@ -36,9 +36,9 @@ cd AlgoSpark
 
 🤝 Contributions towards this project:
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+```Contributions are welcome! Please feel free to submit a Pull Request.```
 
 👨‍💻 Author
-Created by Aryadeep with loads of ❤️ and ☕️
+```Created by Aryadeep with loads of ❤️ and ☕️```
 
 
