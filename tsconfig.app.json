@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "composite": true,
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
@@ -16,7 +17,7 @@
     "allowImportingTsExtensions": true,
     "isolatedModules": true,
     "moduleDetection": "force",
-    "noEmit": true,
+    "noEmit": false,
     "jsx": "react-jsx",
 
     /* Linting */
