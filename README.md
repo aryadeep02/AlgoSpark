@@ -1,6 +1,12 @@
 # 🚀 AlgoSpark  
 
-A powerful Data Structure and Algorithm (DSA) Visualizer built with React, ShadCN, and Sonner for interactive learning and visualization.  
+A powerful Data Structure and Algorithm (DSA) Visualizer built with React, ShadCN, and Sonner for interactive learning and visualization. 
+
+## 🚀 Live Site
+
+**[algo-spark.vercel.app](https://algo-spark.vercel.app)**
+
+Visit the live application to explore interactive visualizations of various data structures and algorithms.
 
 ## ✨ Features  
 
