@@ -1,5 +1,4 @@
 "use client"
-
 import { useState, useEffect } from "react"
 import DataStructureVisualizer from "./data-structure-visualizer"
 import { Input } from "@/components/ui/input"
