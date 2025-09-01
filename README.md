@@ -1,4 +1,4 @@
-# 🚀 AlgoSpark  
+# 🧑🏻‍💻 AlgoSpark  
 
 A powerful Data Structure and Algorithm (DSA) Visualizer built with React, ShadCN, and Sonner for interactive learning and visualization. 
 
