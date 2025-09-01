@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Algo Spark  
 
 A powerful Data Structure and Algorithm (DSA) Visualizer built with React, ShadCN, and Sonner for interactive learning and visualization.  
@@ -27,3 +28,6 @@ A powerful Data Structure and Algorithm (DSA) Visualizer built with React, ShadC
 git clone https://github.com/aryadeep02/AlgoSpark
 
 npm install
+=======
+# AlgoSpark
+>>>>>>> 8c0e0695fb465e4c197f4ec28c9b8f6eba0865bd
