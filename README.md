@@ -9,8 +9,7 @@ A powerful Data Structure and Algorithm (DSA) Visualizer built with React, ShadC
 Visit the live application to explore interactive visualizations of various data structures and algorithms.
 
 ## ✨ Features  
-
-- 📌 Graph & Dynamic Programming Visualizations  
+ 
 - 🎨 Modern UI with ShadCN Components  
 - 🏎 Smooth Scroll Navigation Between Sections  
 - ⚡ Elegant Toaster Notifications using Sonner  
